@@ -28,15 +28,15 @@ definir um orçamento mensal e acompanhar suas finanças em um dashboard.
 ## 4. Integrantes e papéis
 | Nome completo | Usuário GitHub | Papel | Conta na ferramenta de protótipo |
 |---|---|---|---|
-| | | Product Owner & Design | Sophia |
-| | | Product Owner & Developer | Alan |
-| | | Scrum Master & Developer | Arthur |
-| | | QA & Developer | Pedro |
-| | | Designer & QA | Augusto |
+|Sophia | wwsophia  | Product Owner & Design |  |
+|Alan | ribeiroalan-ifsp  | Product Owner & Developer |  |
+|Arthur | | Scrum Master & Developer |  |
+|Pedro | pedrocoelho05  | QA & Developer |  |
+|Augusto | AugustoBahia03  | Designer & QA |  |
 
 ## 5. Uso de IA generativa (declaração obrigatória)
 <!-- Onde e para quê ferramentas de IA foram usadas. Se não foram, escreva "Não utilizado". -->
 - Ferramenta:  | Onde/para quê:
-
+* Github Copilot - Autocomplete no commit
 ---
 *Última atualização: 22/09/2026*
