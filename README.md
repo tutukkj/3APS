@@ -1,4 +1,4 @@
-# [Nome da Equipe] — Controle de Gastos e Finanças Pessoais
+# 3APS — Controle de Gastos e Finanças Pessoais
 
 <!-- Substitua [Nome da Equipe] pelo nome real. Este README é a porta de entrada do trabalho. -->
 
@@ -28,16 +28,15 @@ definir um orçamento mensal e acompanhar suas finanças em um dashboard.
 ## 4. Integrantes e papéis
 | Nome completo | Usuário GitHub | Papel | Conta na ferramenta de protótipo |
 |---|---|---|---|
-| | | Product Owner | |
-| | | Scrum Master | |
-| | | QA | |
-| | | Developer | |
-| | | Developer | |
-| | | Developer | |
+| | | Product Owner & Design | Sophia |
+| | | Product Owner & Developer | Alan |
+| | | Scrum Master & Developer | Arthur |
+| | | QA & Developer | Pedro |
+| | | Designer & QA | Augusto |
 
 ## 5. Uso de IA generativa (declaração obrigatória)
 <!-- Onde e para quê ferramentas de IA foram usadas. Se não foram, escreva "Não utilizado". -->
 - Ferramenta:  | Onde/para quê:
 
 ---
-*Última atualização: DD/MM/2026*
+*Última atualização: 22/09/2026*
